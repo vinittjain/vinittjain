@@ -3,8 +3,8 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> 
 </h1>
 
-- :computer: Staff Machine Learning Engineer @ Huawei Research, Singapore (2022/06/20 - Present)
-- :mortar_board: Dual MSc in CS (TU Berlin | KTH)
+- :computer: Staff Machine Learning Engineer @ Huawei Research, Singapore. Previously @ Electronic Arts, Sony, Fraunhofer. 
+- :mortar_board: Dual MSc in CS (Technical University of Berlin | KTH Royal Institute of Technology) with a focus on Machine Learning and Robotics. 
 - :zap: In my free time, I work on quantitative finance and open-source projects.
 - :eyes: Visit [here](https://vinittjain.github.io) for more information
 
